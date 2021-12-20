@@ -10,6 +10,9 @@ public class BloodBankServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BloodBankServerApplication.class, args);
-	}
+	
+test
+
+}
 
 }

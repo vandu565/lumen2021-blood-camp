@@ -12,5 +12,6 @@ import com.example.demo.entity.Camp;
 public interface CampRepo extends JpaRepository<Camp, Integer>{
 
 	List<Camp> findByLocation(String location);
+test//test
 
 }
